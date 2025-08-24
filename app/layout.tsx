@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "QR Access App",
   description: "Mobile QR Code Access Application",
-  viewport: "width=393, initial-scale=1, maximum-scale=1, user-scalable=no",
+  viewport: "width=414, initial-scale=1, maximum-scale=1, user-scalable=no",
     generator: 'v0.app'
 }
 
