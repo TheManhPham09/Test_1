@@ -66,8 +66,8 @@ export default function SuccessPage({ userName }: SuccessPageProps) {
         backgroundRepeat: "no-repeat",
         // --- BẮT ĐẦU KHU VỰC CÓ THỂ CHỈNH SỬA KÍCH THƯỚC MÀN HÌNH ---
         // Điều chỉnh kích thước cho iPhone 15 (393px x 852px)
-        maxWidth: "393px",
-        minHeight: "852px",
+        maxWidth: "414px",
+        minHeight: "896px",
         // --- KẾT THÚC KHU VỰC CÓ THỂ CHỈNH SỬA KÍCH THƯỚC MÀN HÌNH ---
         margin: "0 auto",
       }}
